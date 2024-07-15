@@ -58,4 +58,4 @@
 [2]: https://doi.org/10.8080/1020110078022
 [3]: https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%ED%8A%B9%ED%97%88%EB%B2%95
 [4]: https://developer.android.com/studio
-[101]: https://github.com/apwlq/OpenMoa/actions/workflows/test.yml/badge.svg
+[101]: https://github.com/apwlq/OctagonIME/actions/workflows/test.yml/badge.svg
