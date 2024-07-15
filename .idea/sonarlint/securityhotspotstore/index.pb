@@ -40,3 +40,14 @@ Fapp/src/test/java/io/github/apwlq/octagon/MoeumGestureProcessorTest.kt,7\9\790
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
 >
 app/.gitignore,5\1\51e1c5d383dfaa35e0e7e5873a0a99355a86880f
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+I
+.github/workflow/test.yml,6\5\652fd5b43e3773768b606db1c2dfa3f33536d52c
+:
+
+LICENSE.md,4\a\4a8486805915245bbbe2e3c8c1a9d680c6843a82
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
