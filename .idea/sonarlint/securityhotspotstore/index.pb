@@ -51,3 +51,13 @@ LICENSE.md,4\a\4a8486805915245bbbe2e3c8c1a9d680c6843a82
 -.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
 S
 #.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+J
+.github/workflows/test.yml,7\c\7ceee5d954a74b8640cc2bfd6c27b8fdf07d7045
+F
+app/proguard-rules.pro,9\e\9e08934d811afe28fbc77aaa3c0d747b94348db9
+@
+local.properties,0\7\0712df971a99ac4d2fccb8e0fb19f377f3374cca
+
+Oapp/src/test/kotlin/io/github/apwlq/octagon/hangul/MoeumGestureProcessorTest.kt,1\0\10fd7d6bdb3eae090a0bb9b8d1d4f32b99953d77
+y
+Iapp/src/test/kotlin/io/github/apwlq/octagon/hangul/HangulAssemblerTest.kt,6\e\6e25563ae5274f5130684bdd84bac0db91846ec2

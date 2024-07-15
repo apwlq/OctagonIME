@@ -1,7 +1,6 @@
-package io.github.apwlq.octagon
+package io.github.apwlq.octagon.hangul
 
 
-import io.github.apwlq.octagon.hangul.HangulAssembler
 import org.junit.Assert
 import org.junit.Test
 
